@@ -1,0 +1,15 @@
+scenario,parameter,value,note
+downside,gross_adds,90000,Half of base
+downside,engaged_share_of_base,0.04,
+downside,avod_viewers,750000,
+downside,overrun_pct,0.25,
+downside,monthly_churn,0.10,
+downside,avod_cpm_inr,120,
+downside,secondary_licensing_pct,0.05,
+upside,gross_adds,320000,
+upside,engaged_share_of_base,0.09,
+upside,avod_viewers,2700000,
+upside,overrun_pct,0.05,
+upside,monthly_churn,0.065,
+upside,avod_cpm_inr,220,
+upside,secondary_licensing_pct,0.25,

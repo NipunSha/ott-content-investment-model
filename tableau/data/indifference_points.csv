@@ -1,0 +1,9 @@
+option_a,option_b,parameter,base_value,indifference_value,a_better_when
+commission,coproduce,residual_rights_value_pct,0.1,1.076665146285866,above
+commission,coproduce,post_window_factor,0.5,,
+commission,coproduce,platform_cost_share,0.5,0.9237497430044893,above
+commission,coproduce,title_performance,1.0,3.159231531677346,above
+commission,acquire,title_performance,1.0,1.246525602714168,above
+coproduce,acquire,title_performance,1.0,0.5266209622252701,above
+coproduce,acquire,acq_audience_multiplier,0.4,0.6610346700240061,below
+commission,acquire,licence_fee_pct_of_prod_cost,0.45,0.604052184020405,above
